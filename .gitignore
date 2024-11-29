@@ -1,8 +1,5 @@
-API/bin
-API/obj
-API/kreya-api
-API.Test/obj/
-API.Test/bin
-.idea/.idea.katalogue.dir/.idea
+*/bin,obj
+.idea/
 
-Client/node_modules
+client/node_modules
+client/src/routeTree.gen.ts
